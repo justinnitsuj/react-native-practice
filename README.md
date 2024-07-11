@@ -1,4 +1,5 @@
 執行expo：npx expo start
+
 git：
 分支要先在main
 1. git add .
